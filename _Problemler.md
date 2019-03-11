@@ -21,6 +21,14 @@ Priştineli mevkidaşı Edita Tahiri'nin, Brüksel'den çıkan sonucun
 Priştineli;lemma=priştinel
 <Token index=1;words=[<Word index=1;text=Priştineli;lemma=priştinel;upos=PROPN;xpos=Prop;feats=Case=Nom|Number=Sing|Person=3;governor=2;dependency_relation=nmod:poss>]>
 
+% olunca Töv diye çeviriyor
+"Ülke teknik olarak krizden %0,6'lık ekonomik büyüme yaşadığı."
+ <Word index=5;text=Töv'';governor=6;dependency_relation=amod>
+ 
+Rakamlarda virgül olunca ayrı gösteriyor
+219,7 milyon
+
+
 > Possesive sorunu.  
 https://groups.google.com/d/msg/stanfordnlp/YEriIzcnDKo/1cYB_YvpBQAJ  
 Burda sorduğum gibi, ingilizce parse 's ayrı token ama Türkçe'de 'nın birleşik.  
