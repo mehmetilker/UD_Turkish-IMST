@@ -16,6 +16,12 @@ Hakkı'nın kız kardeşi benim adımı Karanlıkta Gelen Adam koydu bu olaydan 
 karanlıkta/ADJ demiş ama TDK'ya göre isim  
 http://tdk.org.tr/index.php?option=com_gts&arama=gts&guid=TDK.GTS.5c7a9b6dbcc661.69001173  
 
+#alp/PROPN ???+ 1984/NOUN ???> Erkekler alp disiplininde 1984 yılında altın madalya kazanan ABD'li Bill Johnson, Saraybosna'daki anılarını anlatarak dinleyenlere hoş dakikalar geçirtti.
+    
+#Priştine/NUM ??? 15 Kasım Pazar günü Priştine'deki bir sandık merkezinde oy kullanan Kosovalı Arnavutlar görülüyor.
+#<Token index=5;words=[<Word index=5;text=Priştine'deki;lemma=priştine;upos=NUM;xpos=ANum;feats=NumType=Card>]>
+
+
 > Yalış Lemma
 Priştineli mevkidaşı Edita Tahiri'nin, Brüksel'den çıkan sonucun
 Priştineli;lemma=priştinel
