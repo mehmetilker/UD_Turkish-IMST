@@ -26,6 +26,9 @@ Daimler AG'nin Dürüstlük ve Hukuki İşlerden Sorumlu Üst Düzey İletişim 
 Daimler/PROPN AG/NOUN
 <Token index=2;words=[<Word index=2;text=AG'nin;lemma=Ag;upos=NOUN;xpos=Abr;feats=Abbr=Yes|Case=Gen|Number=Sing|Person=3>]>
 
+Gün PROPN olarak işaretlenmiş
+Appathurai Çarşamba günü yaptığı açıklamada, 15 bin kişilik KFOR'un gereken bütün yasal ve diğer standartları yerine getireceğini söyledi.
+<Token index=2;words=[<Word index=2;text=Çarşamba;lemma=Çarşamba;upos=PROPN;xpos=Prop;feats=Case=Nom|Number=Sing|Person=3>]>
 
 > Yalış Lemma
 Priştineli mevkidaşı Edita Tahiri'nin, Brüksel'den çıkan sonucun
