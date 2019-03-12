@@ -21,6 +21,11 @@ http://tdk.org.tr/index.php?option=com_gts&arama=gts&guid=TDK.GTS.5c7a9b6dbcc661
 #Priştine/NUM ??? 15 Kasım Pazar günü Priştine'deki bir sandık merkezinde oy kullanan Kosovalı Arnavutlar görülüyor.
 #<Token index=5;words=[<Word index=5;text=Priştine'deki;lemma=priştine;upos=NUM;xpos=ANum;feats=NumType=Card>]>
 
+Kısaltmalar PROPN olarak işaretlenmeli
+Daimler AG'nin Dürüstlük ve Hukuki İşlerden Sorumlu Üst Düzey İletişim Müdürü
+Daimler/PROPN AG/NOUN
+<Token index=2;words=[<Word index=2;text=AG'nin;lemma=Ag;upos=NOUN;xpos=Abr;feats=Abbr=Yes|Case=Gen|Number=Sing|Person=3>]>
+
 
 > Yalış Lemma
 Priştineli mevkidaşı Edita Tahiri'nin, Brüksel'den çıkan sonucun
