@@ -30,6 +30,10 @@ BM/NOUN olarak işaretlenmiş, lemma=Bm yapmış
 BM elçisi Martti Ahtisaari'nin ofsinden bir heyet geldi.
 <Token index=1;words=[<Word index=1;text=BM;lemma=Bm;upos=PROPN;xpos=Prop;feats=Case=Nom|Number=Sing|Person=3;governor=2;dependency_relation=nmod:poss>]>
 
+BH/PROPN ama Abr olarak işaretlenmemiş
+BH Federasyonu, Sırbistan, Kanada, Yunanistan, Hollanda, BH Bakanlar Kurulu ve Brcko eyaleti
+<Token index=1;words=[<Word index=1;text=BH;lemma=bh;upos=PROPN;xpos=Prop;feats=Case=Nom|Number=Sing|Person=3;governor=34;dependency_relation=nsubj>]>
+
 
 Gün PROPN olarak işaretlenmiş
 Appathurai Çarşamba günü yaptığı açıklamada, 15 bin kişilik KFOR'un gereken bütün yasal ve diğer standartları yerine getireceğini söyledi.
