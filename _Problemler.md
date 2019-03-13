@@ -21,10 +21,15 @@ http://tdk.org.tr/index.php?option=com_gts&arama=gts&guid=TDK.GTS.5c7a9b6dbcc661
 #Priştine/NUM ??? 15 Kasım Pazar günü Priştine'deki bir sandık merkezinde oy kullanan Kosovalı Arnavutlar görülüyor.
 #<Token index=5;words=[<Word index=5;text=Priştine'deki;lemma=priştine;upos=NUM;xpos=ANum;feats=NumType=Card>]>
 
-Kısaltmalar PROPN olarak işaretlenmeli
+Kısaltmalar PROPN olarak işaretlenmeli - xpos/tag=Abr olarak işaretleniyor.
 Daimler AG'nin Dürüstlük ve Hukuki İşlerden Sorumlu Üst Düzey İletişim Müdürü
 Daimler/PROPN AG/NOUN
 <Token index=2;words=[<Word index=2;text=AG'nin;lemma=Ag;upos=NOUN;xpos=Abr;feats=Abbr=Yes|Case=Gen|Number=Sing|Person=3>]>
+
+BM/NOUN olarak işaretlenmiş, lemma=Bm yapmış
+BM elçisi Martti Ahtisaari'nin ofsinden bir heyet geldi.
+<Token index=1;words=[<Word index=1;text=BM;lemma=Bm;upos=PROPN;xpos=Prop;feats=Case=Nom|Number=Sing|Person=3;governor=2;dependency_relation=nmod:poss>]>
+
 
 Gün PROPN olarak işaretlenmiş
 Appathurai Çarşamba günü yaptığı açıklamada, 15 bin kişilik KFOR'un gereken bütün yasal ve diğer standartları yerine getireceğini söyledi.
