@@ -39,6 +39,14 @@ Gün PROPN olarak işaretlenmiş
 Appathurai Çarşamba günü yaptığı açıklamada, 15 bin kişilik KFOR'un gereken bütün yasal ve diğer standartları yerine getireceğini söyledi.
 <Token index=2;words=[<Word index=2;text=Çarşamba;lemma=Çarşamba;upos=PROPN;xpos=Prop;feats=Case=Nom|Number=Sing|Person=3>]>
 
+Gün rakamlar PROPN olarak işaretleniyor.
+<Token index=6;words=[<Word index=6;text=21;lemma=21;upos=PROPN;xpos=Prop;feats=Case=Nom|Number=Sing|Person=3;governor=8;dependency_relation=obl>]>
+<Token index=7;words=[<Word index=7;text=Aralık'ta;lemma=Aralık;upos=PROPN;xpos=Prop;feats=Case=Loc|Number=Sing|Person=3;governor=6;dependency_relation=flat>]>
+
+Yıl rakamları NOUN
+<Token index=32;words=[<Word index=32;text=2005;lemma=2005;upos=NOUN;xpos=Abr;feats=Abbr=Yes|Case=Nom|Number=Sing|Person=3;governor=33;dependency_relation=nmod:poss>]>
+<Token index=33;words=[<Word index=33;text=yılında;lemma=yıl;upos=NOUN;xpos=Noun;feats=Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3;governor=35;dependency_relation=obl>]>
+
 > Yalış Lemma
 Priştineli mevkidaşı Edita Tahiri'nin, Brüksel'den çıkan sonucun
 Priştineli;lemma=priştinel
